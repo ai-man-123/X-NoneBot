@@ -134,31 +134,6 @@ ${runtime(process.uptime())}
 • ${prefix}faktaunik
 • ${prefix}katabijak
 • ${prefix}truth
-• ${prefix}dare
-
-( ♀️ ) *Asupan Menu*
-• ${prefix}asupan
-• ${prefix}santuy
-• ${prefix}bocil
-• ${prefix}ukhty
-• ${prefix}rikagusriani
-• ${prefix}ghea
-
-( 🦋 ) *Cecan Menu*
-• ${prefix}china
-• ${prefix}hijab
-• ${prefix}indon
-• ${prefix}japan
-• ${prefix}korea
-• ${prefix}malay
-
-( 🌈 ) *Nsfw Menu*
-• ${prefix}awoo
-• ${prefix}blowjob
-• ${prefix}hentai
-• ${prefix}megumin
-• ${prefix}neko
-• ${prefix}trapnime
 
 ( ➿ ) *Waifu Menu*
 • ${prefix}loli
